@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name:Kishore E
+### Reg no:212223080028
 AIM
 To control the status of the given lamp by using two – way switches.
 
